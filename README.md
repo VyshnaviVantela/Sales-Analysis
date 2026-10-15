@@ -29,6 +29,13 @@ Screenshots of the dashboard will be added here.
 ## Project Files
 The Power BI report (`.pbix`), screenshots, and supporting files will be added when ready.
 
+## Dashboard Previews
+### Sales Performance Analysis Dashboard
+Sales Performance Dashboard (sales-dashboard.png)
+
+### Sales Dashboard — Challenges and KPIs
+Sales Dashboard Challenges (sales-dashboard-challenges.png)
+
 ## Author
 Vyshnavi Vantela
 
